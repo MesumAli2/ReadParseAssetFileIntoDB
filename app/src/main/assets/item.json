@@ -1,0 +1,11 @@
+[{
+  "name" : "Apple Watch",
+  "price" : 299.99,
+  "quantity" : 21
+},
+  {
+    "name" : "iphone 13 Pro",
+    "price" : 344.99,
+    "quantity" : 100
+  }
+]
